@@ -1,0 +1,11 @@
+{
+  "meta": {
+    "version": "1.0.0",
+    "name": "NeoForgeServer 1.21.8 (TEMPLATE)",
+    "description": "실험용 템플릿. servers/로 옮겨 값/구성 확인 후 사용하세요.",
+    "icon": "icon.png",
+    "address": "play.example.com:25565",
+    "mainServer": false,
+    "autoconnect": false
+  }
+}

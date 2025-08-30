@@ -1,0 +1,5 @@
+version:134
+lang:ko_kr
+guiScale:2
+resourcePacks:[]
+incompatibleResourcePacks:[]

@@ -1,11 +1,11 @@
 {
-  "$schema": "file:///D:/mcLauncherRoot/schemas/DistroMetaSchema.schema.json",
+  "$schema": "file:///${ROOT}/schemas/DistroMetaSchema.schema.json",
   "meta": {
-    "rss": "<LINK TO RSS FEED>",
+    "rss": "",
     "discord": {
-      "clientId": "<FILL IN OR REMOVE DISCORD OBJECT>",
-      "smallImageText": "<FILL IN OR REMOVE DISCORD OBJECT>",
-      "smallImageKey": "<FILL IN OR REMOVE DISCORD OBJECT>"
+      "clientId": "",
+      "smallImageText": "",
+      "smallImageKey": ""
     }
   }
 }

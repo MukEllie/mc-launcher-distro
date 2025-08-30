@@ -1,0 +1,14 @@
+{
+  "meta": {
+    "version": "1.0.0",
+    "name": "ForgeServer 1.21.8 (TEMPLATE)",
+    "description": "servers/로 옮겨 값만 수정해 활성화하세요.",
+    "icon": "icon.png",
+    "address": "play.example.com:25565",
+    "mainServer": false,
+    "autoconnect": false
+  },
+  "forge": {
+    "version": "recommended"
+  }
+}

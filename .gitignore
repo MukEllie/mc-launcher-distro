@@ -1,0 +1,6 @@
+.DS_Store
+Thumbs.db
+*.zip
+*.jar
+distribution.json
+distribution_dev.json
