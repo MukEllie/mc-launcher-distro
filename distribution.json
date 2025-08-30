@@ -1,11 +1,7 @@
 {
   "version": "1.0.0",
-  "rss": "<LINK TO RSS FEED>",
-  "discord": {
-    "clientId": "",
-    "smallImageText": "",
-    "smallImageKey": ""
-  },
+  "rss": "",
+  "discord": { "clientId": "", "smallImageText": "", "smallImageKey": "" },
   "servers": [
     {
       "id": "FabricServer-1.21.8",
@@ -15,15 +11,11 @@
       "version": "1.0.0",
       "address": "152.67.199.228:25565",
       "minecraftVersion": "1.21.8",
-      "discord": {
-        "shortId": "",
-        "largeImageText": "",
-        "largeImageKey": ""
-      },
+      "discord": { "shortId": "", "largeImageText": "", "largeImageKey": "" },
       "mainServer": true,
       "autoconnect": true,
 
-      "servermeta": "https://raw.githubusercontent.com/MukEllie/mc-launcher-distro/master/servers/FabricServer-1.21.8/servermeta.json",
+      "servermeta": "file:///D:/mcLauncherRoot/servers/FabricServer-1.21.8/servermeta.json",
 
       "mainClass": "net.fabricmc.loader.impl.launch.knot.KnotClient",
       "arguments": [
@@ -34,14 +26,14 @@
 
       "modules": [
         {
-            "id": "1.21.8-fabric-0.17.2",
-            "name": "Minecraft 1.21.8 + Fabric 0.17.2 (Version Manifest)",
-            "type": "VersionManifest",
-            "artifact": {
-                "size": 2847,
-                "MD5": "c8a1038edbd5ab4e75b0009e24e8a270",
-                "url": "https://raw.githubusercontent.com/MukEllie/mc-launcher-distro/master/repo/versions/1.21.8-fabric-0.17.2/1.21.8-fabric-0.17.2.json"
-            }
+          "id": "1.21.8-fabric-0.17.2",
+          "name": "Minecraft 1.21.8 + Fabric 0.17.2 (Version Manifest)",
+          "type": "VersionManifest",
+          "artifact": {
+            "size": 2847,
+            "MD5": "c8a1038edbd5ab4e75b0009e24e8a270",
+            "url": "file:///D:/mcLauncherRoot/repo/versions/1.21.8-fabric-0.17.2/1.21.8-fabric-0.17.2.json"
+          }
         },
         {
           "id": "net.fabricmc:fabric-loader:0.17.2",
@@ -50,17 +42,7 @@
           "artifact": {
             "size": 1915305,
             "MD5": "72dd698d701202d46303fc913cfcbf23",
-            "url": "https://raw.githubusercontent.com/MukEllie/mc-launcher-distro/master/repo/lib/net/fabricmc/fabric-loader/0.17.2/fabric-loader-0.17.2.jar"
-          }
-        },
-        {
-          "id": "fabric-loader-1.21.8-0.17.2",
-          "name": "Fabric Loader Version JSON",
-          "type": "VersionManifest",
-          "artifact": {
-            "size": 3000,
-            "MD5": "00000000000000000000000000000000",
-            "url": "https://raw.githubusercontent.com/MukEllie/mc-launcher-distro/master/repo/versions/fabric-loader-1.21.8-0.17.2/fabric-loader-1.21.8-0.17.2.json"
+            "url": "file:///D:/mcLauncherRoot/repo/lib/net/fabricmc/fabric-loader/0.17.2/fabric-loader-0.17.2.jar"
           }
         }
       ]
