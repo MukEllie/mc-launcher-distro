@@ -18,6 +18,7 @@
       "discord": { "shortId": "", "largeImageText": "", "largeImageKey": "" },
       "mainServer": false,
       "autoconnect": true,
+      "servermeta": "https://raw.githubusercontent.com/MukEllie/mc-launcher-distro/master/servers/FabricServer-1.21.8/servermeta.json",
 
       "mainClass": "net.fabricmc.loader.impl.launch.knot.KnotClient",
       "arguments": [
