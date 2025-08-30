@@ -1,7 +1,7 @@
 {
   "$schema": "file:///D:/mcLauncherRoot/schemas/ServerMetaSchema.schema.json",
   "meta": {
-    "version": "1.0.0",
+    "version": "1.0.2",
     "name": "테스트용 서버",
     "description": "테스트용, Minecraft 1.21.8 (Fabric v0.17.2)",
     "icon": "",
@@ -11,5 +11,17 @@
     "autoconnect": false
   },
   "fabric": { "version": "0.17.2" },
+  "modules": [
+    {
+      "id": "complementary-reimagined",
+      "type": "file",
+      "subtype": "shaderpack",
+      "required": true,
+      "download": {
+        "url": "https://raw.githubusercontent.com/MukEllie/mc-launcher-distro/master/servers/FabricServer-1.21.8/shaderpacks/ComplementaryReimagined_r5.5.1.zip",
+        "sha1": "c9f1724fbe77e1d36afab9612b4aaac693bc84e4"
+      }
+    }
+  ],
   "untrackedFiles": []
 }
