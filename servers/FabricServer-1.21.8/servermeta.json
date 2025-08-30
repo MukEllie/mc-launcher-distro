@@ -4,51 +4,12 @@
     "version": "1.0.0",
     "name": "테스트용 서버",
     "description": "테스트용, Minecraft 1.21.8 (Fabric v0.17.2)",
-    "icon": "How to set the server icon: https://github.com/dscalzi/Nebula#setting-the-server-icon",
+    "icon": "",
     "address": "152.67.199.228:25565",
     "discord": { "shortId": "", "largeImageText": "", "largeImageKey": "" },
     "mainServer": false,
     "autoconnect": false
   },
   "fabric": { "version": "0.17.2" },
-  "modules": [
-    {
-      "id": "fabric-api",
-      "type": "mod",
-      "required": true,
-      "download": {
-        "url": "https://cdn.modrinth.com/data/P7dR8mSH/versions/Q8ssLFZp/fabric-api-0.133.0+1.21.8.jar",
-        "sha1": "c4db5e258898acb6a1411e317077e7e217b2d4e2"
-      }
-    },
-    {
-      "id": "sodium",
-      "type": "mod",
-      "required": true,
-      "download": {
-        "url": "https://cdn.modrinth.com/data/AANobbMI/versions/ND4ROcMQ/sodium-fabric-mc1.21.6-0.6.13.jar",
-        "sha1": "2d635c3d938aa3f75b0ec61c7402eeea2f9c30a9"
-      }
-    },
-    {
-      "id": "iris",
-      "type": "mod",
-      "required": false,
-      "download": {
-        "url": "https://cdn.modrinth.com/data/YL57xq9U/versions/l77DAK6U/iris-fabric-1.9.1+mc1.21.7.jar",
-        "sha1": "99263e7d7ae31b4eda6fb66c9790bc2763f9ec3d"
-      }
-    },
-    {
-      "id": "complementary-reimagined",
-      "type": "file",
-      "subtype": "shaderpack",
-      "required": false,
-      "download": {
-        "url": "https://edge.forgecdn.net/files/5874/236/ComplementaryReimagined_r5.5.1.zip",
-        "sha1": "c9f1724fbe77e1d36afab9612b4aaac693bc84e4"
-      }
-    }
-  ],
   "untrackedFiles": []
 }
