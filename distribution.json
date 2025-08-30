@@ -30,7 +30,7 @@
           "artifact": {
             "size": 1915305,
             "MD5": "72dd698d701202d46303fc913cfcbf23",
-            "url": "http://localhost:8080/repo/lib/net/fabricmc/fabric-loader/0.17.2/fabric-loader-0.17.2.jar"
+            "url": "https://mukellie.github.io/mc-launcher-distro/repo/lib/net/fabricmc/fabric-loader/0.17.2/fabric-loader-0.17.2.jar"
           },
           "subModules": [
             {
@@ -40,7 +40,7 @@
               "artifact": {
                 "size": 2847,
                 "MD5": "c8a1038edbd5ab4e75b0009e24e8a270",
-                "url": "http://localhost:8080/repo/versions/1.21.8-fabric-0.17.2/1.21.8-fabric-0.17.2.json"
+                "url": "https://mukellie.github.io/mc-launcher-distro/repo/versions/1.21.8-fabric-0.17.2/1.21.8-fabric-0.17.2.json"
               }
             },
             {
@@ -50,7 +50,7 @@
               "artifact": {
                 "size": 126113,
                 "MD5": "f5adf3bfc54fb3d2cd8e3a1f275084bc",
-                "url": "http://localhost:8080/repo/lib/org/ow2/asm/asm/9.8/asm-9.8.jar"
+                "url": "https://mukellie.github.io/mc-launcher-distro/repo/lib/org/ow2/asm/asm/9.8/asm-9.8.jar"
               }
             },
             {
@@ -60,7 +60,7 @@
               "artifact": {
                 "size": 35151,
                 "MD5": "3d63508405f5610fc2ea673ff5471553",
-                "url": "http://localhost:8080/repo/lib/org/ow2/asm/asm-analysis/9.8/asm-analysis-9.8.jar"
+                "url": "https://mukellie.github.io/mc-launcher-distro/repo/lib/org/ow2/asm/asm-analysis/9.8/asm-analysis-9.8.jar"
               }
             },
             {
@@ -70,7 +70,7 @@
               "artifact": {
                 "size": 73498,
                 "MD5": "c8c3d9ccf240144e74d94ff658b024c9",
-                "url": "http://localhost:8080/repo/lib/org/ow2/asm/asm-commons/9.8/asm-commons-9.8.jar"
+                "url": "https://mukellie.github.io/mc-launcher-distro/repo/lib/org/ow2/asm/asm-commons/9.8/asm-commons-9.8.jar"
               }
             },
             {
@@ -80,7 +80,7 @@
               "artifact": {
                 "size": 51934,
                 "MD5": "4ab1aaec43c77a2d9b56e6d6d496f705",
-                "url": "http://localhost:8080/repo/lib/org/ow2/asm/asm-tree/9.8/asm-tree-9.8.jar"
+                "url": "https://mukellie.github.io/mc-launcher-distro/repo/lib/org/ow2/asm/asm-tree/9.8/asm-tree-9.8.jar"
               }
             },
             {
@@ -90,7 +90,7 @@
               "artifact": {
                 "size": 94559,
                 "MD5": "62498ef324bdab15f407d703f7d78d19",
-                "url": "http://localhost:8080/repo/lib/org/ow2/asm/asm-util/9.8/asm-util-9.8.jar"
+                "url": "https://mukellie.github.io/mc-launcher-distro/repo/lib/org/ow2/asm/asm-util/9.8/asm-util-9.8.jar"
               }
             },
             {
@@ -100,7 +100,7 @@
               "artifact": {
                 "size": 1504156,
                 "MD5": "aa4a43d5b0e9abf4fcb57520ffeb0019",
-                "url": "http://localhost:8080/repo/lib/net/fabricmc/sponge-mixin/0.16.3+mixin.0.8.7/sponge-mixin-0.16.3+mixin.0.8.7.jar"
+                "url": "https://mukellie.github.io/mc-launcher-distro/repo/lib/net/fabricmc/sponge-mixin/0.16.3+mixin.0.8.7/sponge-mixin-0.16.3+mixin.0.8.7.jar"
               }
             },
             {
@@ -110,7 +110,7 @@
               "artifact": {
                 "size": 746437,
                 "MD5": "72c38e6c7d436b28b88f9a3a2369619d",
-                "url": "http://localhost:8080/repo/lib/net/fabricmc/intermediary/1.21.8/intermediary-1.21.8.jar"
+                "url": "https://mukellie.github.io/mc-launcher-distro/repo/lib/net/fabricmc/intermediary/1.21.8/intermediary-1.21.8.jar"
               }
             }
           ]
@@ -121,7 +121,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 2242937,
-            "url": "http://localhost:8080/servers/FabricServer-1.21.8/fabricmods/required/fabric-api-0.133.0+1.21.8.jar",
+            "url": "https://mukellie.github.io/mc-launcher-distro/servers/FabricServer-1.21.8/fabricmods/required/fabric-api-0.133.0+1.21.8.jar",
             "MD5": "6ea500e58993361a6ce5b49eb3f0b35f"
           }
         },
@@ -131,7 +131,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 2722729,
-            "url": "http://localhost:8080/servers/FabricServer-1.21.8/fabricmods/required/iris-fabric-1.9.1+mc1.21.7.jar",
+            "url": "https://mukellie.github.io/mc-launcher-distro/servers/FabricServer-1.21.8/fabricmods/required/iris-fabric-1.9.1+mc1.21.7.jar",
             "MD5": "8917cad8cd022c485aaecc778ef7dcb0"
           }
         },
@@ -141,7 +141,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 1443665,
-            "url": "http://localhost:8080/servers/FabricServer-1.21.8/fabricmods/required/sodium-fabric-0.6.13+mc1.21.6.jar",
+            "url": "https://mukellie.github.io/mc-launcher-distro/servers/FabricServer-1.21.8/fabricmods/required/sodium-fabric-0.6.13+mc1.21.6.jar",
             "MD5": "e3afb795784c85089e89a1c1ee1fe107"
           }
         },
@@ -151,7 +151,7 @@
           "type": "File",
           "artifact": {
             "size": 83,
-            "url": "http://localhost:8080/servers/FabricServer-1.21.8/files/config/iris.properties",
+            "url": "https://mukellie.github.io/mc-launcher-distro/servers/FabricServer-1.21.8/files/config/iris.properties",
             "path": "config/iris.properties"
           }
         },
@@ -161,7 +161,7 @@
           "type": "File",
           "artifact": {
             "size": 238,
-            "url": "http://localhost:8080/servers/FabricServer-1.21.8/files/config/sodium-options.json",
+            "url": "https://mukellie.github.io/mc-launcher-distro/servers/FabricServer-1.21.8/files/config/sodium-options.json",
             "path": "config/sodium-options.json"
           }
         },
@@ -171,7 +171,7 @@
           "type": "File",
           "artifact": {
             "size": 80,
-            "url": "http://localhost:8080/servers/FabricServer-1.21.8/files/options.txt",
+            "url": "https://mukellie.github.io/mc-launcher-distro/servers/FabricServer-1.21.8/files/options.txt",
             "path": "options.txt"
           }
         },
@@ -181,7 +181,7 @@
           "type": "File",
           "artifact": {
             "size": 0,
-            "url": "http://localhost:8080/servers/FabricServer-1.21.8/files/resourcepacks/.keep",
+            "url": "https://mukellie.github.io/mc-launcher-distro/servers/FabricServer-1.21.8/files/resourcepacks/.keep",
             "MD5": "d41d8cd98f00b204e9800998ecf8427e",
             "path": "resourcepacks/.keep"
           }
@@ -192,7 +192,7 @@
           "type": "File",
           "artifact": {
             "size": 0,
-            "url": "http://localhost:8080/servers/FabricServer-1.21.8/files/shaderpacks/.keep",
+            "url": "https://mukellie.github.io/mc-launcher-distro/servers/FabricServer-1.21.8/files/shaderpacks/.keep",
             "MD5": "d41d8cd98f00b204e9800998ecf8427e",
             "path": "shaderpacks/.keep"
           }
@@ -203,7 +203,7 @@
           "type": "File",
           "artifact": {
             "size": 456328,
-            "url": "http://localhost:8080/servers/FabricServer-1.21.8/files/shaderpacks/ComplementaryReimagined_r5.5.1.zip",
+            "url": "https://mukellie.github.io/mc-launcher-distro/servers/FabricServer-1.21.8/files/shaderpacks/ComplementaryReimagined_r5.5.1.zip",
             "MD5": "e49c87af1c2bb64337068f6928f06bff",
             "path": "shaderpacks/ComplementaryReimagined_r5.5.1.zip"
           }
