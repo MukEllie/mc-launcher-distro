@@ -17,7 +17,7 @@
       "minecraftVersion": "1.21.8",
       "discord": { "shortId": "", "largeImageText": "", "largeImageKey": "" },
       "mainServer": false,
-      "autoconnect": false,
+      "autoconnect": true,
 
       "mainClass": "net.fabricmc.loader.impl.launch.knot.KnotClient",
       "arguments": [
