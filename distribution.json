@@ -25,21 +25,12 @@
 
       "servermeta": "https://raw.githubusercontent.com/MukEllie/mc-launcher-distro/master/servers/FabricServer-1.21.8/servermeta.json",
 
-      /* ==== 실행 진입점과 인자(명시적 지정) ==== */
       "mainClass": "net.fabricmc.loader.impl.launch.knot.KnotClient",
       "arguments": [
         "--gameDir", "${gameDir}",
         "--assetsDir", "${assetsDir}",
         "--version", "fabric-loader-1.21.8-0.17.2"
       ],
-
-      /* ==== 필요한 자바 옵션을 고정하고 싶으면 주석 제거하고 쓰세요 ====
-      "jvmArgs": [
-        "-Xmx4G",
-        "-XX:+UnlockExperimentalVMOptions",
-        "-XX:+UseG1GC"
-      ],
-      =========================================================== */
 
       "modules": [
         {
@@ -51,11 +42,19 @@
             "MD5": "c8a1038edbd5ab4e75b0009e24e8a270",
             "url": "https://raw.githubusercontent.com/MukEllie/mc-launcher-distro/master/repo/versions/1.21.8-fabric-0.17.2/1.21.8-fabric-0.17.2.json"
           },
-
-          /* 아래 세 필드는 런처가 지원하면 그대로 사용, 미지원이어도 위의 mainClass/arguments가 있으니 실행됨 */
           "applyLibraries": true,
           "applyMainClass": true,
           "applyArguments": true
+        },
+        {
+          "id": "net.fabricmc:fabric-loader:0.17.2",
+          "name": "Fabric Loader 0.17.2",
+          "type": "Library",
+          "artifact": {
+            "size": 1915305,
+            "MD5": "72dd698d701202d46303fc913cfcbf23",
+            "url": "https://raw.githubusercontent.com/MukEllie/mc-launcher-distro/master/repo/lib/net/fabricmc/fabric-loader/0.17.2/fabric-loader-0.17.2.jar"
+          }
         }
       ]
     }
