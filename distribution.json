@@ -27,26 +27,18 @@
 
       "modules": [
         {
-          "id": "net.fabricmc:fabric-loader:0.17.2",
-          "name": "Fabric (fabric-loader)",
-          "type": "Fabric",
+          "id": "1.21.8-fabric-0.17.2",
+          "name": "Minecraft 1.21.8 + Fabric 0.17.2 (Version Manifest)",
+          "type": "VersionManifest",
           "artifact": {
-            "size": 1915305,
-            "MD5": "72dd698d701202d46303fc913cfcbf23",
-            "url": "https://raw.githubusercontent.com/MukEllie/mc-launcher-distro/master/repo/lib/net/fabricmc/fabric-loader/0.17.2/fabric-loader-0.17.2.jar"
+            "size": 2847,
+            "MD5": "c8a1038edbd5ab4e75b0009e24e8a270",
+            "url": "https://raw.githubusercontent.com/MukEllie/mc-launcher-distro/master/repo/versions/1.21.8-fabric-0.17.2/1.21.8-fabric-0.17.2.json"
           },
-          "subModules": [
-            {
-              "id": "1.21.8-fabric-0.17.2",
-              "name": "Fabric (version.json)",
-              "type": "VersionManifest",
-              "artifact": {
-                "size": 2847,
-                "MD5": "c8a1038edbd5ab4e75b0009e24e8a270",
-                "url": "https://raw.githubusercontent.com/MukEllie/mc-launcher-distro/master/repo/versions/1.21.8-fabric-0.17.2/1.21.8-fabric-0.17.2.json"
-              }
-            }
-          ]
+
+          "applyLibraries": true,
+          "applyMainClass": true,
+          "applyArguments": true
         }
       ]
     }
