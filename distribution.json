@@ -1,7 +1,11 @@
 {
   "version": "1.0.0",
   "rss": "",
-  "discord": { "clientId": "", "smallImageText": "", "smallImageKey": "" },
+  "discord": {
+    "clientId": "",
+    "smallImageText": "",
+    "smallImageKey": ""
+  },
   "servers": [
     {
       "id": "FabricServer-1.21.8",
@@ -11,7 +15,11 @@
       "version": "1.0.0",
       "address": "152.67.199.228:25565",
       "minecraftVersion": "1.21.8",
-      "discord": { "shortId": "", "largeImageText": "", "largeImageKey": "" },
+      "discord": {
+        "shortId": "",
+        "largeImageText": "",
+        "largeImageKey": ""
+      },
       "mainServer": true,
       "autoconnect": true,
 
