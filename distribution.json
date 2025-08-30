@@ -15,14 +15,25 @@
       "version": "1.0.0",
       "address": "152.67.199.228:25565",
       "minecraftVersion": "1.21.8",
-      "discord": {
-        "shortId": "",
-        "largeImageText": "",
-        "largeImageKey": ""
-      },
+      "discord": { "shortId": "", "largeImageText": "", "largeImageKey": "" },
       "mainServer": true,
       "autoconnect": true,
-      "servermeta": "https://raw.githubusercontent.com/MukEllie/mc-launcher-distro/master/servers/FabricServer-1.21.8/servermeta.json"
+
+      "servermeta": "https://raw.githubusercontent.com/MukEllie/mc-launcher-distro/master/servers/FabricServer-1.21.8/servermeta.json",
+      "serverMeta": "https://raw.githubusercontent.com/MukEllie/mc-launcher-distro/master/servers/FabricServer-1.21.8/servermeta.json",
+
+      "modules": [
+        {
+          "id": "net.fabricmc:fabric-loader:0.17.2",
+          "name": "Fabric (fabric-loader)",
+          "type": "Fabric",
+          "artifact": {
+            "size": 1915305,
+            "MD5": "72dd698d701202d46303fc913cfcbf23",
+            "url": "https://raw.githubusercontent.com/MukEllie/mc-launcher-distro/master/repo/lib/net/fabricmc/fabric-loader/0.17.2/fabric-loader-0.17.2.jar"
+          }
+        }
+      ]
     }
   ]
 }
