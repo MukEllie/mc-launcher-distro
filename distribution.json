@@ -1,6 +1,6 @@
 {
   "version": "1.0.0",
-  "rss": "",
+  "rss": "https://mukellie.github.io/mc-launcher-distro/rss.xml",
   "discord": {
     "clientId": "",
     "smallImageText": "",

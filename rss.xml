@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8" ?>
-<rss version="2.0">
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/">
   <channel>
-
     <title>MC 런처 뉴스</title>
     <description>커스텀 런처 공지 피드</description>
 
     <item>
-      <title>런처 업데이트 1.0</title>
+      <title>런처 업데이트 1.0.0</title>
       <pubDate>Sun, 31 Aug 2025 03:00:00 GMT</pubDate>
-      <description>런처 1.0 버전이 출시되었습니다. 테스트용 서버(1.21.1, Fabric v0.17.1) 서버 목록에 추가했습니다.</description>
+      <description>런처 1.0.0 버전이 출시되었습니다. 테스트용 서버(1.21.1, Fabric v0.17.1) 서버 목록에 추가했습니다.</description>
+      <dc:creator>관리자</dc:creator>
     </item>
 
   </channel>
