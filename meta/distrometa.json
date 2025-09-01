@@ -1,7 +1,7 @@
 {
   "$schema": "file:///${ROOT}/schemas/DistroMetaSchema.schema.json",
   "meta": {
-    "rss": "",
+    "rss": "https://mukellie.github.io/mc-launcher-distro/rss.xml",
     "discord": {
       "clientId": "",
       "smallImageText": "",
