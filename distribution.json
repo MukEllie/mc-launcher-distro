@@ -21,7 +21,7 @@
         "largeImageKey": ""
       },
       "mainServer": false,
-      "autoconnect": true,
+      "autoconnect": false,
       "modules": [
         {
           "id": "net.fabricmc:fabric-loader:0.17.2",
@@ -143,6 +143,16 @@
             "size": 1443665,
             "url": "https://raw.githubusercontent.com/MukEllie/mc-launcher-distro/master/servers/FabricServer-1.21.8/fabricmods/required/sodium-fabric-0.6.13+mc1.21.6.jar",
             "MD5": "e3afb795784c85089e89a1c1ee1fe107"
+          }
+        },
+        {
+          "id": "de.maxhenkel:voicechat:1.21.8-2.5.35@jar",
+          "name": "Simple Voice Chat",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 7420794,
+            "url": "https://raw.githubusercontent.com/MukEllie/mc-launcher-distro/master/servers/FabricServer-1.21.8/fabricmods/required/voicechat-fabric-1.21.8-2.5.35.jar",
+            "MD5": "d5d49e4707d3afb900f193c5265d6200"
           }
         },
         {
