@@ -146,13 +146,13 @@
           }
         },
         {
-          "id": "de.maxhenkel:voicechat:1.21.8-2.5.35@jar",
+          "id": "de.maxhenkel:voicechat:1.21.8-2.6.1@jar",
           "name": "Simple Voice Chat",
           "type": "FabricMod",
           "artifact": {
-            "size": 7420794,
-            "url": "https://raw.githubusercontent.com/MukEllie/mc-launcher-distro/master/servers/FabricServer-1.21.8/fabricmods/required/voicechat-fabric-1.21.8-2.5.35.jar",
-            "MD5": "d5d49e4707d3afb900f193c5265d6200"
+            "size": 5452480,
+            "url": "https://raw.githubusercontent.com/MukEllie/mc-launcher-distro/master/servers/FabricServer-1.21.8/fabricmods/required/voicechat-fabric-1.21.8-2.6.1.jar",
+            "MD5": "12e0036df1ce11265b4e16d1658e59e4"
           }
         },
         {
