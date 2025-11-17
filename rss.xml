@@ -5,15 +5,36 @@
     <description>커스텀 런처 공지 피드</description>
 
     <item>
+      <title>런처 업데이트 1.0.4</title>
+      <pubDate>Tue, 18 Nov 2025 03:18:00 +0900</pubDate>
+      <description>런처 1.0.4 버전이 출시되었습니다. 서버의 아이콘과 배경이미지를 컨셉에 맞게 변경했습니다.</description>
+      <dc:creator>관리자</dc:creator>
+    </item>
+
+    <item>
+      <title>런처 업데이트 1.0.3</title>
+      <pubDate>Mon, 17 Nov 2025 21:40:00 +0900</pubDate>
+      <description>런처 1.0.3 버전이 출시되었습니다. 엔더드래곤 사냥용 서버와 연동시켰습니다.</description>
+      <dc:creator>관리자</dc:creator>
+    </item>
+
+    <item>
+      <title>런처 업데이트 1.0.2</title>
+      <pubDate>Mon, 17 Nov 2025 21:13:00 +0900</pubDate>
+      <description>런처 1.0.2 버전이 출시되었습니다. 오라클 클라우드를 런처와 연동시켰습니다.</description>
+      <dc:creator>관리자</dc:creator>
+    </item>
+
+    <item>
       <title>런처 업데이트 1.0.1</title>
-      <pubDate>Mon, 1 Sep 2025 13:45:00 GMT</pubDate>
+      <pubDate>Mon, 01 Sep 2025 22:45:00 +0900</pubDate>
       <description>런처 1.0.1 버전이 출시되었습니다. news 화면 UI를 수정했습니다.</description>
       <dc:creator>관리자</dc:creator>
     </item>
 
     <item>
       <title>런처 업데이트 1.0.0</title>
-      <pubDate>Sun, 31 Aug 2025 03:00:00 GMT</pubDate>
+      <pubDate>Sun, 31 Aug 2025 12:00:00 +0900</pubDate>
       <description>런처 1.0.0 버전이 출시되었습니다. 테스트용 서버(1.21.1, Fabric v0.17.1) 서버 목록에 추가했습니다.</description>
       <dc:creator>관리자</dc:creator>
     </item>
