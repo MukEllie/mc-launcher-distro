@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+
+    <item>
+      <title>런처 업데이트 1.0.0</title>
+      <pubDate>Sun, 17 Nov 2025 02:00:00 +0900</pubDate>
+      <description>런처 1.0.0 버전이 출시되었습니다.</description>
+      <dc:creator>관리자</dc:creator>
+    </item>
+
+  </channel>
+</rss>
